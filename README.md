@@ -11,7 +11,7 @@ Python Developer | Data Analyst | AI & Web Development
   <a href="mailto:samiksharg21@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/https://github.com/samikshargunjal">
+  <a href="https://github.com/github.com/samikshargunjal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>

@@ -83,4 +83,4 @@ Mobile application for scrap pickup scheduling and sustainable waste management.
 ## 📫 Contact Me
 📧 **Email:** samiksharg21@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/samikshagunjal24212628  
-💻 **GitHub:** github.com/samikshargunjal
+💻 **GitHub:** https://github.com/samikshargunjal

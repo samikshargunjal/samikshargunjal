@@ -54,7 +54,7 @@ Python Developer | Data Analyst | AI & Web Development
 Machine learning–based system that recommends suitable crops using weather parameters.
 
 🤟 **AI-Powered Sign Language Translator**  
-Real-time sign language recognition using OpenCV, CNN, and Mediapipe.
+Real-time sign language recognition using OpenCV and CNN.
 
 💼 **Smart Hire Job Portal**  
 Web-based recruitment system with database management and analytics features.
